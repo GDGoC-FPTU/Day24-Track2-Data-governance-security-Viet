@@ -1,4 +1,5 @@
 # Guide — Timeline 2h
+bichuche test
 
 Ý tưởng cốt lõi: bạn tự tay đóng mạch **lethal trifecta** trước khi được
 dạy cách chặn nó. Đọc về prompt injection thì quên; thấy agent của chính
